@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb313a01cD7638aE38777Cb5c55e8E98cE38Bfc9a",
+  "SCAN_LINK": "https://polygonscan.com/address/0xb313a01cd7638ae38777cb5c55e8e98ce38bfc9a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Street Fighter Cats NFT",
+  "SYMBOL": "SFC",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/streetfightercats",
+  "SHOW_BACKGROUND": true
+}
